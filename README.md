@@ -6,8 +6,8 @@ Welcome to my Data Analysis with R repository!
 
 You will find:
 
-• 📑 **Reports (PDFs and HTML)**: Comprehensive reports generated from the regression analyses using R-Markdown.
-• 📊 **Datasets (usually .csv)**: The datasets used in the analysis, sourced from both built-in R datasets and Kaggle. If a dataset is too large to upload, I’ll include a link to it.
+1.  📑 **Reports (PDFs and HTML)**: Comprehensive reports generated from the regression analyses using R-Markdown.
+2.  📊 **Datasets (usually .csv)**: The datasets used in the analysis, sourced from both built-in R datasets and Kaggle. If a dataset is too large to upload, I’ll include a link to it.
 
 ## How to Use
 
